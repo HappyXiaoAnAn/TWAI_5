@@ -1,0 +1,13 @@
+ &calssteoflst
+ keydate=198001202002,
+ svtfsano_ana2_file='/data2/chtseng/ncepdata/sst_198001_202002.r4',
+ eofano_ana2_file='/data2/chtseng/ncepdata/ISOMAP_sst40years.dat',
+ eofratio_ana2_file='/data2/chtseng/ncepdata/evratio_ISOMAP_sst40years.dat',
+ eofpca_ana2_file='/data2/chtseng/ncepdata/ISOPCA_sst40years.dat',
+ rlon1=120.,
+ rlon2=300.,
+ rlat1=-30.,
+ rlat2=30.,
+ nv=60,
+ niter=10,
+ &end
